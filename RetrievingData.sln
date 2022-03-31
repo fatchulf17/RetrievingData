@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31410.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RetrievingData", "RetrievingData\RetrievingData.csproj", "{A6528FF4-254A-4860-84BD-D67D494C7DBD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A6528FF4-254A-4860-84BD-D67D494C7DBD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6528FF4-254A-4860-84BD-D67D494C7DBD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A6528FF4-254A-4860-84BD-D67D494C7DBD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A6528FF4-254A-4860-84BD-D67D494C7DBD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E0E7430D-9559-41FE-89A6-9C0FB45E15DC}
+	EndGlobalSection
+EndGlobal
